@@ -1,0 +1,17 @@
+.container {
+    position: absolute;
+
+    top: 0;
+    left: -45%;
+    
+    z-index: -1;
+
+
+    width: 385px;
+    height: 431px;
+    background: radial-gradient(
+        50% 50% at 50% 50%,
+        #763cac 0%,
+        rgba(50, 15, 133, 0) 100%
+    );
+}
